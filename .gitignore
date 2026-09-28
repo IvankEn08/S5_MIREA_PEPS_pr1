@@ -1,0 +1,8 @@
+Debug/
+obj/
+bin/
+*.elf
+*.bin
+*.map
+Project Backups/
+Last Loaded*.pdsprj
